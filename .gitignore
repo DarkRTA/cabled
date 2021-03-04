@@ -1,0 +1,6 @@
+# exclude object files
+obj
+# exclude the main executable
+cabled
+# eclude the tags file
+tags
